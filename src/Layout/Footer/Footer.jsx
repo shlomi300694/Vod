@@ -7,7 +7,7 @@ const Footer = () => {
  
   <div className="text-center p-3 text-white" >
     © 2022 Copyright: 
-    <Link className="text-white" to="/">Sharon Avraham</Link>
+    <Link className="text-white" to="/">shlomi ohayon</Link>
   </div>
 </footer>
   )
